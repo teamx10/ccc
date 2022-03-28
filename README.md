@@ -1,6 +1,6 @@
-# Chevalier 💛💙 by TeamX10
+# Cryptocurrency Converter Chevalier 💛💙 by TeamX10
 
-Chrome Browser Extension for Crypto-currencies prices, USD-calculator, Crypto-helper
+Chrome Browser Extension for Cryptocurrencies Prices Converting, USD-calculator, Cryptocurrency exchange rates, Crypto-helper
 
 ![Chevalier](https://github.com/teamx10/chevalier/blob/main/chevalier.png?raw=true)
 
