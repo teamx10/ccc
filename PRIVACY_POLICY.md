@@ -1,7 +1,7 @@
 # Privacy Policy
 
 Your privacy is very important to us. 
-It is Chevalier’s extension goal to respect your privacy regarding 
+It is TeamX10’s extension goal to respect your privacy regarding 
 any information we may collect from you across our web extension. 
 We only ask for personal information when we only need it to provide 
 and improve your experience with our service. We collect it by fair and 
@@ -20,7 +20,7 @@ and cannot accept responsibility or liability for their respective privacy
 policies. You are free to refuse our request for your personal information, 
 with the understanding that we may be unable to provide you with some 
 of your desired services. To make our services better we may collect 
-anonymous statistical information of the Chevalier extension usage. 
+anonymous statistical information of the TeamX10 extension usage. 
 All events and interactions with our site and applications are collected 
 anonymously.
 We don’t store or collect any private information that you may share with us.
