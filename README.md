@@ -6,7 +6,7 @@ USD-calculator,
 Cryptocurrency exchange rates,
 Crypto-helper
 
-![TeamX10](https://github.com/teamx10/ccc/blob/main/logo-filled.svg)
+![TeamX10](https://github.com/teamx10/ccc/blob/main/images/logo-filled.svg)
 
 ## TeamX10 Chrome Extension
 [Cryptocurrency Converter 💛💙 TeamX10](https://chrome.google.com/webstore/detail/cryptocurrency-converter/dlniopemnkbmlkgbkchpleoicdolmafn)  — powerful cryptocurrency exchange rates converter and calculator with access to 10000+ coins.
@@ -20,19 +20,19 @@ Our extension also supports live prices for biggest coins, such as Bitcoin (BTC)
 Install TeamX10 to simplify and improve your experience with converting cryptocurrencies! 🙌
 
 ### Cryptocurrency exchange rate converter
-![TeamX10 Screenshot 1](https://github.com/teamx10/ccc/blob/main/screens/1280x800-1.jpeg)
+![TeamX10 Screenshot 1](https://github.com/teamx10/ccc/blob/main/images/1280x800-1.jpeg)
 
 ### Just select coin and see live prices in USD
-![TeamX10 Screenshot 2](https://github.com/teamx10/ccc/blob/main/screens/1280x800-2.jpeg)
+![TeamX10 Screenshot 2](https://github.com/teamx10/ccc/blob/main/images/1280x800-2.jpeg)
 
 ### Live prices for Bitcoin and 10000+ coins
-![TeamX10 Screenshot 3](https://github.com/teamx10/ccc/blob/main/screens/1280x800-3.jpeg)
+![TeamX10 Screenshot 3](https://github.com/teamx10/ccc/blob/main/images/1280x800-3.jpeg)
 
 ## Feedback
 To leave Feedback, Questions, or Bug reports, please do it [here](https://forms.gle/ZqQXL3YrGNKtUWCeA).
 
-![Cryptocurrency Converter TeamX1](https://github.com/teamx10/ccc/blob/main/screens/440x280.jpeg)
+![Cryptocurrency Converter TeamX1](https://github.com/teamx10/ccc/blob/main/images/440x280.jpeg)
 
 2022 &copy; Developed by TeamX10 in Ukraine
 
-![Cryptocurrency Converter TeamX10](https://github.com/teamx10/ccc/blob/main/logo-filled-orange.svg)
+![Cryptocurrency Converter TeamX10](https://github.com/teamx10/ccc/blob/main/images/logo-filled-orange.svg)
