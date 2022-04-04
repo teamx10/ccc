@@ -23,6 +23,7 @@ Install TeamX10 to simplify and improve your experience with converting cryptocu
 ![TeamX10 Screenshot 1](https://github.com/teamx10/ccc/blob/main/images/1280x800-1.jpeg)
 
 ### Just select coin and see live prices in USD
+For example: `3.1415926 ETH`, `2 btc`, `13.3843 YOU`, `40.868673 QUIPU`
 ![TeamX10 Screenshot 2](https://github.com/teamx10/ccc/blob/main/images/1280x800-2.jpeg)
 
 ### Live prices for Bitcoin and 10000+ coins
